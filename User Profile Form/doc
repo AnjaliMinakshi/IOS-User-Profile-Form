@@ -1,0 +1,15 @@
+
+Demo 1: User Profile Form
+Topics Covered: Swift Basics, Functions, SwiftUI Basics, TextField, Button, Layouts
+Requirements
+* Create a screen with:
+    * Name TextField
+    * Email TextField
+    * Submit Button
+* On button click, display entered information below.
+* Use a function to format/display user information.
+* Apply styling using:
+    * .padding()
+    * .background()
+    * .foregroundColor()
+* Use VStack and HStack.
