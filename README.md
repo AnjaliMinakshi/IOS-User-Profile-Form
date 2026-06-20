@@ -110,13 +110,6 @@ UserProfileForm/
 └── README.md
 ```
 
-Then add:
-
-```markdown
-![App Screenshot](Screenshots/app-screen.png)
-```
-
----
 
 ## 🎯 Learning Objectives
 
